@@ -1,3 +1,5 @@
-class Person {}
+class Person {
+  constructor() {}
+}
 
 module.exports = Person;
