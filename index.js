@@ -1,1 +1,3 @@
-console.log("HELLO WORLD");
+class Person {}
+
+module.exports = Person;
